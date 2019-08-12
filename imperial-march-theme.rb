@@ -38,6 +38,7 @@ end
 
 define :first_theme do
   first_theme_a
+  sleep 0.6
   first_theme_b
 end
 

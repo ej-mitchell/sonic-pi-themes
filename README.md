@@ -4,7 +4,7 @@ A repository of familiar themes and original works that have been written out in
 
 ## How do you use it?
 
-Say you want to do a remix of a famous _Star Wars_ theme. Say you didn't have the time to write it all out for Sonic Pi yourself. This is just a repo of time-savers and creative departures to make music reference easier. Copy and paste the themes you like into your project, and adjust them at you will.
+Say you want to do a remix of a famous _Star Wars_ theme. Say you didn't have the time to write it all out for Sonic Pi yourself. This is just a repo of time-savers and creative departures to make music reference easier. Copy and paste the themes you like into your project, and adjust them at your will.
 
 ## Sonic Pi?
 
