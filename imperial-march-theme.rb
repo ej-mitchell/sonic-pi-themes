@@ -9,6 +9,12 @@ define :main_chord_inversion do
   sleep 0.6
 end
 
+define :first_theme do
+  first_theme_a
+  sleep 0.6
+  first_theme_b
+end
+
 define :first_theme_a do
   3.times do
     play :G5
@@ -34,12 +40,6 @@ define :first_theme_b do
   sleep 0.6
   
   main_chord_inversion
-end
-
-define :first_theme do
-  first_theme_a
-  sleep 0.6
-  first_theme_b
 end
 
 define :second_theme do
